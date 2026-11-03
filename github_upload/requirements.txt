@@ -1,0 +1,11 @@
+# Direct dependencies imported by SnowParking_Research_v2.ipynb.
+# Versions are intentionally not fabricated; the notebook exports actual versions.
+torch
+torchvision
+numpy
+pandas
+Pillow
+scikit-learn
+matplotlib
+ipywidgets
+ipython
